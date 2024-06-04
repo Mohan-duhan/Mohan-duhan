@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **React.js and DSA**
 
-- 💬 Ask me about **MERN ,**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **duhanmohan9@gmail.com**
 
