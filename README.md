@@ -8,7 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-duhan&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-duhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohan duhan" target="blank"><img src="https://img.shields.io/twitter/follow/mohan duhan?logo=twitter&style=for-the-badge" alt="mohan duhan" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/duhanmohan" target="blank">
+    <img src="https://img.shields.io/badge/-duhanmohan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="mohan duhan" />
+  </a> 
+</p>
+
 
 - 🔭 I’m currently working on **Sair**
 
