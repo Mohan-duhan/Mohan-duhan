@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **duhanmohan9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Iv-NjBuHU26kx0hfb15EBWo7YYki93x/view?usp=drive_link](https://drive.google.com/file/d/15Iv-NjBuHU26kx0hfb15EBWo7YYki93x/view?usp=drive_link)
-
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/15Iv-NjBuHU26kx0hfb15EBWo7YYki93x/view?usp=drive_link)
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
