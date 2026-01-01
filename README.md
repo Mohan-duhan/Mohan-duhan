@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+logic%2C+not+just+code;DSA+%7C+C%2B%2B+%7C+MERN+Stack;Always+learning%2C+always+debugging+😄" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohan-duhan&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 💫 About Me
@@ -73,15 +77,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mohan-duhan&show_icons=true&theme=radical" height="165"/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mohan-duhan&theme=radical" height="165"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-duhan&layout=compact&theme=radical"/>
-</p> -->
-
----
 
 ## ✍️ Random Dev Quote
 
@@ -98,6 +96,7 @@
 </p>
 
 ---
+
 <p align="center">
   <b>⚡ “Consistency beats motivation.”</b>
 </p>
