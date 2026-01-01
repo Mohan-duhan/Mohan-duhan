@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/coding-setup.png" alt="Coding Setup" />
+  <img src="assests/coding-setup.png" alt="Coding Setup" width="600" height="350" style="border: 3px solid #61dafb; border-radius: 8px;" />
 </p>
 
 <br>
