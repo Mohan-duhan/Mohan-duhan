@@ -1,5 +1,4 @@
-![Developer working on PC](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&h=300&fit=crop)
-
+![Programmer working on laptop](https://images.unsplash.com/photo-1542667052-d89260887b8b?w=900&h=300&fit=crop)
 # 💫 About Me:
 🔭 Building logic, not just code  <br>👯 Always up for cool dev collaborations  <br>🤝 Stuck on a problem? Same—let’s solve it  <br>🌱 Leveling up in JavaScript & backend  <br>💬 DSA, C++, MERN — let’s talk  <br>⚡ Fun fact: I debug more than I code 😄<br>
 
