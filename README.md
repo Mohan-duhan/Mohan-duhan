@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding-setup.png" alt="Coding Setup" />
+  <img src="assests/coding-setup.png" alt="Coding Setup" />
 </p>
 
 <br>
