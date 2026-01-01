@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/coding-setup.png" alt="Coding Setup" width="700" style="border-radius: 12px;" />
+  <img src="assests/coding-setup.png" alt="Coding Setup" width="500" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohan Singh</h1>
@@ -73,13 +73,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-duhan&show_icons=true&theme=radical" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mohan-duhan&show_icons=true&theme=radical" height="165"/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mohan-duhan&theme=radical" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-duhan&layout=compact&theme=radical"/>
-</p>
+</p> -->
 
 ---
 
@@ -98,11 +98,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mohan-duhan&icon=0&color=12"/>
-</p>
-
 <p align="center">
   <b>⚡ “Consistency beats motivation.”</b>
 </p>
