@@ -1,4 +1,5 @@
-![Developer coding on laptop](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&h=300&fit=crop)
+<img src="https://raw.githubusercontent.com/Mohan-duhan/Mohan-duhan/main/assets/coding-setup.png" width="100%" />
+
 # 💫 About Me:
 🔭 Building logic, not just code  <br>👯 Always up for cool dev collaborations  <br>🤝 Stuck on a problem? Same—let’s solve it  <br>🌱 Leveling up in JavaScript & backend  <br>💬 DSA, C++, MERN — let’s talk  <br>⚡ Fun fact: I debug more than I code 😄<br>
 
