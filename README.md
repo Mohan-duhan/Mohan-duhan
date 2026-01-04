@@ -19,16 +19,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohan-duhan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- 
---- 
- 
 ## 💫 About Me 
  
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
@@ -117,17 +107,17 @@
 ## 📊 GitHub Stats 
  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohan-duhan&theme=radical&include_all_commits=true&count_private=true" height="165"/> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mohan-duhan&theme=radical&include_all_commits=true&count_private=true" height="165"/>  -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mohan-duhan&theme=radical" height="165"/> 
 </p> 
  
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-duhan&theme=radical&layout=compact" /> 
 </p> 
  
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohan-duhan&theme=react-dark&hide_border=true&area=true" /> 
-</p> 
+</p>  -->
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  
